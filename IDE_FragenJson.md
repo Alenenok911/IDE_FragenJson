@@ -17,12 +17,12 @@ Die Fragen und Antworten sind im JSON-Format dargestellt.
     "A": "Eine Programmiersprache zur Entwicklung von Webseiten.",
     "B": "Eine integrierte Entwicklungsumgebung, die Werkzeuge zum Schreiben, Ausführen und Debuggen von Code kombiniert.",
     "C": "Eine Datenbank zur Speicherung von Quellcode.",
-    "D": "Ein Datenformat für den Austauch von Programmen."
+    "D": "Ein Datenformat für den Austausch von Programmen."
  },
  "richtigeAntworten":["B"]
 },
 {
-  "nummer":2,
+  "nummer": 2,
   "frage": "Welche der folgenden Programme sind IDEs?",
   "antworten": {
     "A": "IntelliJ IDEA (JetBrains)",
@@ -33,7 +33,7 @@ Die Fragen und Antworten sind im JSON-Format dargestellt.
   "richtigeAntworten": ["A", "B", "C", "D"]
 },
 {
-  "nummer":3,
+  "nummer": 3,
   "frage": "Was versteht man unter Debugging?",
   "antworten": {
      "A": "Das Programm Schritt für Schritt auszuführen, um Fehler zu finden.",
@@ -44,7 +44,7 @@ Die Fragen und Antworten sind im JSON-Format dargestellt.
   "richtigeAntworten": ["A", "C"]
 },
 {
-  "nummer":4,
+  "nummer": 4,
   "frage": "Was ist die Konsole in einer IDE?",
   "antworten": {
      "A": "Ein Werkzeug zum automatischen Umbenennen von Variablen.",
@@ -54,7 +54,7 @@ Die Fragen und Antworten sind im JSON-Format dargestellt.
   "richtigeAntworten": ["B"]
 },
 {
-  "nummer":5,
+  "nummer": 5,
   "frage": "Wie unterstützt eine IDE das Finden von Fehlern im Code?",
   "antworten": {
     "A": "Sie markiert Syntaxfehler und mögliche Probleme direkt im Editor.",
